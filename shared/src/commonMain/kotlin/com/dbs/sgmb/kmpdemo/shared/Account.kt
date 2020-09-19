@@ -1,4 +1,4 @@
-package com.dbs.sgmb.kmpdemo
+package com.dbs.sgmb.kmpdemo.shared
 
 interface Account {
     fun getProdCode(): String
